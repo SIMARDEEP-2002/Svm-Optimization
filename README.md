@@ -60,9 +60,12 @@ The objective is to identify each of a large number of black-and-white rectangul
 ![graph]()
 
 
-## Project By
+## Project Submitted By
+
 Sub-Group: COE 22
+
 Name : Simardeep Singh 
+
 Roll No. : 102003559
 
 
