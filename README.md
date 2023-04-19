@@ -57,7 +57,8 @@ The objective is to identify each of a large number of black-and-white rectangul
 | 10 | 0.92 | poly | 0.80 | 0.71 |
 
 ## Convergence Graph
-![graph]()
+<img width="615" alt="result" src="https://user-images.githubusercontent.com/79918370/233186155-bbb34947-e493-47e4-ab41-cf4eeb8b5106.png">
+
 
 
 ## Project Submitted By
