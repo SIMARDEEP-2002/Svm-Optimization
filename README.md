@@ -3,7 +3,7 @@
 
 ## Dataset
 
-The dataset for the project has been downloaded from the UCI.
+The dataset for the project has been taken from the UCI.
 [https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/](https://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/)
 
 Data Set Characteristics:  
@@ -35,13 +35,13 @@ Attribute Information:
 17. yegvx correlation of y-ege with x (integer)
 
 
-The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet. The character images were based on 20 different fonts and each letter within these 20 fonts was randomly distorted to produce a file of 20,000 unique stimuli. Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15. We typically train on the first 16000 items and then use the resulting model to predict the letter category for the remaining 4000. See the article cited above for more details.
+The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet. The character images were based on 20 different fonts and each letter within these 20 fonts was randomly distorted to produce a file of 20,000 unique stimuli. Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15. We typically train on the first 16000 items and then use the resulting model to predict the letter category for the remaining 4000.
 
 
 
 
 
-## Final Result Table
+## Result Table
 
 | Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
 | -----   | ------------- | ----------- | ------- | ------------ |
@@ -56,7 +56,7 @@ The objective is to identify each of a large number of black-and-white rectangul
 | 9 | 0.92 | poly| 0.95 | 0.21 |
 | 10 | 0.92 | poly | 0.80 | 0.71 |
 
-## Convergence Graph
+## Graph
 <img width="615" alt="result" src="https://user-images.githubusercontent.com/79918370/233186155-bbb34947-e493-47e4-ab41-cf4eeb8b5106.png">
 
 
